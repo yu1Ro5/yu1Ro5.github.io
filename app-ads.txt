@@ -1,5 +1,1 @@
-# KASANE - AdMob app-ads.txt
-# AdMobのパブリッシャーIDが未確認のため、広告販売者の宣言はまだ登録していません。
-# AdMob「アプリ > KASANE > app-ads.txtの設定手順」に表示される行で、このファイルを置き換えてください。
-# 形式の例（以下はコメントのため検証対象外）:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-6618364445291146, DIRECT, f08c47fec0942fa0
